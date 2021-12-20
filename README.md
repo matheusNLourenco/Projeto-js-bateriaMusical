@@ -1,5 +1,5 @@
 <h1 align=" center"> 
-    Drum JS 🥁
+    Bateria JS 🥁
 </h1>
 
 <h1>
@@ -7,13 +7,13 @@
 </h1>
 
 <h2 align="center">
-    <a href="https://matheusnlourenco.github.io/project-js-drum/">See the Project</a>
+    <a href="https://matheusnlourenco.github.io/project-js-drum/">Ver projeto</a>
 </h2>
-<h2>🚨 about</h2>
+<h2>🚨 Sobre </h2>
 
-Project of a musical **DRUNS JS**
+Projeto bateria musical. Feito com js vanilla
 
-<h2>🔨 Tools</h2>
+<h2>🔨 Ferramentas </h2>
 
 - HTML
 - CSS
